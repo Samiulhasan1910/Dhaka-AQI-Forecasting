@@ -220,8 +220,8 @@ Dhaka-AQI-Forecasting/
 
 ## 📄 Publication
 
-A research paper based on this work is currently **under review**. Citation details will be added after
-acceptance.
+A research paper based on this work is currently **under review**. Citation
+details will be added here once it is published.
 
 ---
 
