@@ -1,0 +1,17 @@
+# Data and trained models (too large for GitHub)
+*.csv
+*.pkl
+*.npy
+*.joblib
+models/
+checkpoints/
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
